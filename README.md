@@ -9,7 +9,7 @@
 <hr/>
 
 <h3>🛠️ About me</h3>
-<p>Crafting code since 2016, currently working as a Software Engineer <a href="https://www.rgspartners.com.br" target="_blank"><strong>@RGS Partners</strong></a>, making finance just a little bit high-tech everyday 😄.<br>Also a part of <a href="">Team Micras</a>, my bachelor's thesis that also happens to be a competitive Micro Mouse.<br><br> Fluent in <strong>React ⚛️</strong>, <strong>Python 🐍</strong>, <strong>Ruby ♦️</strong>, and currently trying to wrap my head around <strong>Haskell</strong></p>
+<p>Crafting code since 2016, currently working as a Software Engineer <a href="https://www.rgspartners.com.br" target="_blank"><strong>@RGS Partners</strong></a>, making finance just a little bit high-tech everyday 😄<br>Also a part of <a href="">Team Micras</a>, my bachelor's thesis that also happens to be a competitive Micro Mouse.<br><br> Fluent in <strong>React ⚛️</strong>, <strong>Python 🐍</strong>, <strong>Ruby ♦️</strong>, and currently trying to wrap my head around <strong>Haskell</strong></p>
 
 <hr/>
 
