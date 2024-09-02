@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello!&desc=Take%20a%20look%20at%20my%20things&color=211150&fontColor=ffd831&height=220" />
-  <h3>Matheus | SWE | São Paulo, Brazil</h3>
+  <h3>Matheus | São Paulo, Brazil</h3>
   <h4>Software Engineer | Data Science Explorer | Cybersecurity Enthusiast</h4> 
   <p>🎓 Computer Engineering @POLI-USP | Graduating 2024</p>
   <p>🎮 Gamer | 🪀 Yoyoing Master | 🌐 Online Since 2001</p>
