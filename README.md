@@ -19,5 +19,17 @@
 
 <hr/>
 
+<h3>🎉 Honorable Mentions</h3>
+<p>Most of my work is under NDA's, but I really like this project I made for uni: <a href="https://github.com/Matheus3007/ElfViewer" target="_blank"><strong>ElfViewer</strong></a></p>
+<p>As the title suggest, it's an interactive visualizer made in Python that takes in ARM ELF files from the disassembler and renders them with each pixel as a different colored instruction.<br>It was pretty fun to make and it also has a few different features that help understand how things work at a lower level (i.e. a branch indicator for branch instructions)<br>
+It can also create some pretty fun wallpapers, such as this Biblically Accurate image of Tux' soul I made from a Linux ARM build:
+<div align="center">
+  <img src="https://imgur.com/RZk2y5n.png" alt="My GitHub Stats" />
+</div>
+<br>Be sure to check it out!</p>
+
+
+<hr/>
+
 <p>Feel free to browse around, fork something, or just drop a star if you like what you see!</p>
 <p>If you're into coding, gaming, or yoyo tricks, we might just get along!</p>
