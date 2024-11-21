@@ -14,8 +14,8 @@
 <hr/>
 
 <h3>🚧 What's Cooking?</h3>
-<p>Currently tinkering with: <a href="https://github.com/Matheus3007/monospace-dreams" target="_blank"><strong>Monospace Dreams</strong></a></p>
-<p>Here's the scoop: A personal page I'm working on just for fun, I've been around for way too long to not have my own website portfolio (but it has a cool twist)</p>
+<p>Currently tinkering with: <a href="https://github.com/Matheus3007/crypt-of-the-cartomancer" target="_blank"><strong>Crypt of the Cartomancer</strong></a></p>
+<p>Here's the scoop: It's actually an assignment for a game dev class I'm taking this semester, the page is poorly documented right now, but when the game gets done I'll document it and also publish it somewhere. The game is supposed to be a mix of Gungeon with Balatro and Vampire Survivors</p>
 
 <hr/>
 
