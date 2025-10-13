@@ -14,8 +14,8 @@
 <hr/>
 
 <h3>🚧 What's Cooking?</h3>
-<p>Currently tinkering with: <a href="https://github.com/Matheus3007/crypt-of-the-cartomancer" target="_blank"><strong>Crypt of the Cartomancer</strong></a></p>
-<p>Here's the scoop: It's actually an assignment for a game dev class I'm taking this semester, the page is poorly documented right now, but when the game gets done I'll document it and also publish it somewhere. The game is supposed to be a mix of Gungeon with Balatro and Vampire Survivors</p>
+<p>Currently tinkering with: <a href="https://github.com/Matheus3007/snacktrack" target="_blank"><strong>SnackTrack</strong></a></p>
+<p>Here's the scoop: I wanted to find out if there's someone over-indulging on our office snacks and modern problems require modern solutions, so I made an ESP32 powered project over the weekend to track that.</p>
 
 <hr/>
 
