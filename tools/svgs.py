@@ -241,7 +241,7 @@ def timeline():
     stops = [
         ("POLI-USP", "Computer Engineering", "graduated end of 2024", "thesis: Micras, a micromouse"),
         ("AMAZON", "Software Engineer", "first job out of uni", "learned the LPs by heart"),
-        ("ENTER", "Software Engineer · now", "AI agents for mass litigation", "getenter.ai"),
+        ("ENTER", "Software Engineer · now", "enterprise AI, made in Brazil", "getenter.ai"),
     ]
     nodes = []
     for i, (x, (name, role, l1, l2)) in enumerate(zip(xs, stops)):
